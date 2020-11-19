@@ -1,0 +1,8 @@
+{
+  "name": "finite-state-machine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kav137/finite-state-machine.git",
+  "author": "Artyom Koval <artyom.koval.137@gmail.com>",
+  "license": "MIT"
+}
